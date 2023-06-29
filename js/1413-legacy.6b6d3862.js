@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkServerWand"]=self["webpackChunkServerWand"]||[]).push([[1413],{41413:function(e,n,a){a.r(n),a.d(n,{default:function(){return i}});var r=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("v-app",[a("v-main",[a("v-container",[a("h1",[e._v("404")]),a("p",[e._v("Just like magic, this page has disappeared.")])])],1)],1)},t=[],u=a(1001),l={},s=(0,u.Z)(l,r,t,!1,null,null,null),i=s.exports}}]);
+//# sourceMappingURL=1413-legacy.6b6d3862.js.map
