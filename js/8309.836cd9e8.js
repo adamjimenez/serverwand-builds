@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkServerWand"]=self["webpackChunkServerWand"]||[]).push([[8309],{78309:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var t=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("v-app",[r("v-main",[r("v-container",[r("router-view")],1)],1)],1)},u=[],a=r(1001),l={},c=(0,a.Z)(l,t,u,!1,null,null,null),i=c.exports}}]);
-//# sourceMappingURL=8309.836cd9e8.js.map
